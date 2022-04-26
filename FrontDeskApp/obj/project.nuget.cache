@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjwbHChW1mncIYNtMrNkuD905dYWi5XjtiFsGwX31Ht/L+XDiDUnzO0uZdZW5+gbAn3ou1Gg0KM2gqxyzMQRAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\JustineBongyad\\FrontDeskApp\\FrontDeskApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\justine.bongyad\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

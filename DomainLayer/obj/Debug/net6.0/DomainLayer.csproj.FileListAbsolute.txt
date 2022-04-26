@@ -1,0 +1,12 @@
+D:\Training\JustineBongyad\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Training\JustineBongyad\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Training\JustineBongyad\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Training\JustineBongyad\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
